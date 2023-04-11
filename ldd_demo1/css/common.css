@@ -7,6 +7,7 @@ body {
     background: url("../images/mxs.jpg") no-repeat;
     background-size: 100% 1250px;
     background-position:center 75px;
+    background-color: rgb(227, 252, 213);
 }
 
 .nav {
