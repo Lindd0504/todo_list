@@ -14,13 +14,13 @@
         margin: 0;
         padding: 0;
         font-size: 16px;
-        background: #CDCDCD;
+        background: #edfcd2;
     }
      
     header {
         height: 50px;
-        background: #333;
-        background: rgba(47, 47, 47, 0.98);
+        background: #caf0bc;
+        background: rgba(144, 196, 114, 0.98);
     }
      
     section {
@@ -44,7 +44,7 @@
         margin-top: 12px;
         text-indent: 10px;
         border-radius: 5px;
-        box-shadow: 0 1px 0 rgba(255, 255, 255, 0.24), 0 1px 6px rgba(0, 0, 0, 0.45) inset;
+        box-shadow: 0 1px 0 rgba(56, 233, 80, 0.24), 0 1px 6px rgba(0, 0, 0, 0.45) inset;
         border: none
     }
      
@@ -108,7 +108,7 @@
         margin-bottom: 10px;
         padding: 0 45px;
         border-radius: 3px;
-        border-left: 5px solid #629A9C;
+        border-left: 5px solid #0afa1e;
         box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07);
     }
      
